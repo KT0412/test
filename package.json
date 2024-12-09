@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.47.2",
+    "dotenv": "^16.4.7",
     "nuxt": "^3.14.1592",
     "supabase": "^2.0.0",
     "vue": "latest",
